@@ -1,5 +1,5 @@
 <?php
-define("Telegram", "https://api.telegram.org/bot574110811:AAF5P6TacDVz2r8piLr7IrD2NDLLk6mWzrc"); 
+define("Telegram", "675423800:AAGkL87hrAcF9yRS0SGiBY14iqoJEVSotTE"); 
 
 $input = file_get_contents("php://input");
 $updates = json_decode($input, true);
